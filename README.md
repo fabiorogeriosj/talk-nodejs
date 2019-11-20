@@ -15,7 +15,7 @@ Um ambiente de execução para JavaScript no backend, multiplataforma, open sour
 ![](eventloop3.png)
 _________
 
-# Code no seu objetivo primário, Javascript no backend
+# Iniciando pelo objetivo primário, Javascript no backend
 
 - npm init
 - Criar um arquivo convertToJson.js
