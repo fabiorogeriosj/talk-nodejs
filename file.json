@@ -1,0 +1,17 @@
+[
+ {
+  "codigo": "123",
+  "nome": "Fábio Rogério",
+  "email": "fabio.jose@grupoboticario.com.br"
+ },
+ {
+  "codigo": "222",
+  "nome": "João",
+  "email": "joao@grupoboticario.com.br"
+ },
+ {
+  "codigo": "432",
+  "nome": "Maria",
+  "email": "maria@grupoboticario.com.br"
+ }
+]
